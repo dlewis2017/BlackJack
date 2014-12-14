@@ -1,4 +1,4 @@
-FundCompCFinal
+FundComp1Final
 ==============
 
 Final Project in Fundamentals of Computing I.
