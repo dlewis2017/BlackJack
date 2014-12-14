@@ -1,4 +1,5 @@
 FundCompCFinal
 ==============
 
-Final Project in Fund Comp C
+Final Project in Fundamentals of Computing I class
+Written in C
